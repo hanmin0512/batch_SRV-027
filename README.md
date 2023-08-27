@@ -9,6 +9,6 @@
 - 방화벽 제품 또는 Windows 방화벽을 사용한 접근통제를 수행하는 경우 (방화벽, TCP-Wrapper, 3rd-Party 제품 등 활용) 양호
 
 ## batch 파일 실행하여 진단 결과 확인
-> !0](https://github.com/hanmin0512/batch_SRV-027/assets/37041208/2b9e2666-6a47-4a65-815c-3fcde523e9c0)
+> ![0](https://github.com/hanmin0512/batch_SRV-027/assets/37041208/2b9e2666-6a47-4a65-815c-3fcde523e9c0)
 
 - 윈도우방화벽 사용을 하고 있으므로 양호
